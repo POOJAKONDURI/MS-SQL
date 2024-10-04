@@ -1,3 +1,12 @@
+"""
+
+@Author: :pooja
+@Date: 2024-10-04 
+@Last Modified by: 
+@Last Modified time:
+@Title : Program to export data from the database.
+
+"""
 import pandas as pd
 from sqlalchemy import create_engine
 
